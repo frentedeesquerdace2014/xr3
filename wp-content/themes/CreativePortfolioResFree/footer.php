@@ -32,7 +32,7 @@
 		</div><!--//footer_social-->
 		
 		<footer>
-	© 2014 Creative Portfolio Theme. Developed by <a href="http://dessign.net">Dessign.net</a></div>
+y <a href="http://dessign.net">Dessign.net</a></div>
 	</footer>
 	
 		
