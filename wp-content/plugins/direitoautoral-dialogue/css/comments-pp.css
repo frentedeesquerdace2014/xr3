@@ -1,0 +1,50 @@
+div.comment-pp {
+    margin-top: 16px;
+}
+
+div.comment-pp:hover {
+    background-color: #f7f7f7;
+}
+
+p.comment-text {
+    cursor: pointer;
+}
+
+div.comment-form {
+    display: none;
+    overflow:hidden;
+}
+
+div.comment-pp div.message {
+    display: none;
+    text-style: italic;
+}
+
+a.comment-button {
+}
+
+/* Form style */
+div.comment-form textarea {
+    border: solid 1px #828282;
+    width: 97%;
+}
+
+div.comment-form .border {
+    border: solid 1px #828282;
+}
+
+div.comment-form textarea.new_text {
+    display: none;
+}
+
+div.comment-form div.loading {
+    background:url(../imgs/loading.gif) no-repeat 50%;
+    height:60px;
+    margin-bottom:20px;
+    display:none;
+    text-align:center;
+}
+
+.displayNone { display:none; }
+
+.uele { padding-left: 20px; }
