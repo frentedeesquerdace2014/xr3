@@ -1,0 +1,12 @@
+/* Very Simple Contact Form */
+
+#vscf label { display: block; margin: 10px 0; font-size: 1em; font-weight:normal; color:#333; }
+#vscf_name, #vscf_email, #vscf_subject { display: block; margin: 10px 0; border:1px solid #ccc; padding: 5px; color:#333; font-size: 1em; width: 70%; }
+#vscf_message { display: block; margin: 10px 0; border: 1px solid #ccc; padding: 5px; color:#333; font-size: 1em; width: 90%; }
+#vscf_send { margin: 5px 0; padding: 5px 10px; width: 8em; border:1px solid #ccc; background: #f8f8f8; color:#333; font-size: 1em; font-weight:normal; }
+#vscf_send:hover { background: #f2f2f2; } 
+#vscf input.error { border-color: #e77776; }
+#vscf textarea.error { border-color: #e77776; }
+span.error { color: #e77776; }
+span.hide { display:none; }
+.info { clear:both; font-style: italic; font-size: 1.25em; color:#333; }

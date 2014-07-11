@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Very Simple Contact Form v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-22 17:40:56+0000\n"
+"Last-Translator: Guido van der Leest\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: vscf_main.php:6
+#@ verysimple
+msgid "Name"
+msgstr "Nome"
+
+#: vscf_main.php:7
+#@ verysimple
+msgid "Email"
+msgstr "Email"
+
+#: vscf_main.php:8
+#@ verysimple
+msgid "Subject"
+msgstr "Assunto"
+
+#: vscf_main.php:9
+#@ verysimple
+msgid "Message"
+msgstr "Mensagem"
+
+#: vscf_main.php:10
+#@ verysimple
+msgid "Submit"
+msgstr "Enviar"
+
+#. translators: plugin header field 'Name'
+#: vscf_settings.php:0
+#@ verysimple
+msgid "Very Simple Contact Form"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: vscf_settings.php:0
+#@ verysimple
+msgid "http://www.guidovanderleest.nl"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: vscf_settings.php:0
+#@ verysimple
+msgid "Guido van der Leest"
+msgstr ""
+
+#: vscf_main.php:11
+#@ verysimple
+msgid "Please fill in all the required fields"
+msgstr "Por favor, preencha todos os campos obrigatórios"
+
+#: vscf_main.php:12
+#: vscf_main.php:13
+#@ verysimple
+msgid "Please enter at least 3 characters"
+msgstr "Por favor, coloque ao menos 3 caracteres"
+
+#: vscf_main.php:14
+#@ verysimple
+msgid "Please enter at least 10 characters"
+msgstr "Por favor, coloque ao menos 10 caracteres"
+
+#: vscf_main.php:15
+#@ verysimple
+msgid "Please enter a valid email"
+msgstr "Por favor, coloque o email válido"
+
+#: vscf_main.php:16
+#@ verysimple
+msgid "Thanks for your message! I will contact you as soon as I can."
+msgstr "Obrigado por sua mensagem! Em breve entrarei em contato."
+
+#. translators: plugin header field 'Description'
+#: vscf_settings.php:0
+#@ verysimple
+msgid "This is a very simple contact form. Use shortcode [contact] to display form on page. For more info please check readme file."
+msgstr "Este é um formulário de contato simples. Use o código [contact] para exibir o formulário na página. Para mais informações consulte o arquivo README."
+
+#. translators: plugin header field 'Version'
+#: vscf_settings.php:0
+#@ verysimple
+msgid "1.8"
+msgstr ""
+
