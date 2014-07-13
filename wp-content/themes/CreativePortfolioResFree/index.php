@@ -6,7 +6,7 @@
 			<!--<div class="icon-arrow-down2 scroller-icon"></div>
 			SCROLL<span>DOWN</span>-->
 			"A revolução é isso: </br>É transformação, é mudança substancial, é alteração profunda da maneira de viver. </br> E a humanidade, sem isso, já teria sucumbido. </br>
-A humnidade só não sucumbiu porque se revoluciona, </br>porque tem gente que ama a revolução. </br>E tem gente que escolhe a revolução."</br></br>   
+A humanidade só não sucumbiu porque se revoluciona, </br>porque tem gente que ama a revolução. </br>E tem gente que escolhe a revolução."</br></br>   
 		</div>		
 		<ul>			
 			<?php
