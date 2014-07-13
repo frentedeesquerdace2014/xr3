@@ -32,7 +32,9 @@
 		</div><!--//footer_social-->
 		
 		<footer>
-y <a href="http://dessign.net">Dessign.net</a></div>
+		<h5>Frente de Esquerda Socialista PCB | PSOL | PSTU</br>
+		Comitê Ailton Lopes 50| CNPJ: 020.572.576/0001-30</br>
+		Av. Imperador, 1397</h5>
 	</footer>
 	
 		
