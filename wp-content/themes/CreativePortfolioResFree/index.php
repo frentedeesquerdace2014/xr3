@@ -5,7 +5,8 @@
 		<div class="scroller">
 			<!--<div class="icon-arrow-down2 scroller-icon"></div>
 			SCROLL<span>DOWN</span>-->
-			SCROLL &#9660;  DOWN 
+			"A revolução é isso: É transformação, é mudança substancial, é alteração profunda da maneira de viver. </br> E a humanidade, sem isso, já teria sucumbido. 
+A humnidade só não sucumbiu porque se revoluciona, porque tem gente que ama a revolução. </br>E tem gente que escolhe a revolução."</br></br> &#9660;  
 		</div>		
 		<ul>			
 			<?php
